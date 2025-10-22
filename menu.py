@@ -1,5 +1,16 @@
 import operacoes_crud as crud  # Importamos o CRUD e damos um "apelido"
 
+def opcoes():
+     print("=" * 30)
+     print("   SISTEMA DE CADASTRO")
+     print("=" * 30)
+     print("1. Adicionar Produto")
+     print("2. Listar Produtos")
+     print("3. Atualizar Produto")
+     print("4. Remover Produto")
+     print("5. Sair")
+     print("-" * 30)
+
 def adicionar():
      print("\n[Adicionar Produto]")
      nome = input("Nome: ")

@@ -17,28 +17,19 @@ def menu():
     
     while True:
         limpar_tela()
-        print("=" * 30)
-        print("   SISTEMA DE CADASTRO")
-        print("=" * 30)
-        print("1. Adicionar Produto")
-        print("2. Listar Produtos")
-        print("3. Atualizar Produto")
-        print("4. Remover Produto")
-        print("5. Sair")
-        print("-" * 30)
+        funcoes.opcoes()
         
         opcao = input("Escolha uma opção: ")
 
         if opcao == '1':
-            
             funcoes.adicionar()
            
-        
         elif opcao == '2':
             funcoes.listar()
 
         elif opcao == '3':
             funcoes.editar()
+
         elif opcao == '4':
             funcoes.remover()
 
