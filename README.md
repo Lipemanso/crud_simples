@@ -9,3 +9,7 @@ Pra esse projeto utilizei:
 - biblioteca requests
 - sqlite3
 
+## Backlog de melhorias
+- Criar um executavel para win, mac e linux(e testar)
+- Criar uma feature para registrar vendas e enviar um comprovante por e-mail ou sms.
+- Criar uma versão com interface gráfica(pc ou web)
