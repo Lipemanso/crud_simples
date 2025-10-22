@@ -14,5 +14,14 @@ Pra esse projeto utilizei:
 - Criar uma feature para registrar vendas e enviar um comprovante por e-mail ou sms.
 - Criar uma versão com interface gráfica(pc ou web)
 
-
+### Tela de adicionar produto
 ![Tela de adicionar produto](image.png)
+
+### Tela de listar produtos
+![Tela de listar produto](image-1.png)
+
+### Tela de editar produtos
+![Tela editar produto](image-2.png)
+
+### Tela de remover produtos
+![Tela remover produto](image-3.png)
